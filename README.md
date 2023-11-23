@@ -1,4 +1,4 @@
-# Landing page 
+# Landing page for GitHub repo
 
 
-Main content goes here.
+This is not the website first page

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Chapter 1
-nav_order: 1
+title: Chapter 2
+nav_order: 2
 ---
 
 

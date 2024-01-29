@@ -43,9 +43,20 @@ The financial accounts are split into eight categories that are briefly describe
 
 ### F.3 - Debt securities
 
-* Securities other than shares: These are negotiable instruments traded in secondary markets and does not grant the holder any ownership right in the insitution issuing them.
 
-* F.33 - Debt securities: Intruments which give the holder the unconditional right to a fixed or contractually determined variable money income in the form of interest payments and/or a stated fixed sum on specified dates. Debt securities can be short term (maturity less than or equal to one year) which includes treasury bills, commercial paper, certificates of deposits, etc. Or long term (maturity more than one year) which includes bonds, floating rate notes, negotiable and tradable loans on secondary markets, etc.
+Intruments which give the holder the unconditional right to a fixed or contractually determined variable money income in the form of interest payments and/or a stated fixed sum on specified dates. Debt securities can be short term (maturity less than or equal to one year) which includes treasury bills, commercial paper, certificates of deposits, etc. Or long term (maturity more than one year) which includes bonds, floating rate notes, negotiable and tradable loans on secondary markets, etc.
+
+
+* Classification by original maturity and currency
+	* F.31 - Short-term debt securities
+	* F.32 - Long-term debt securities
+
+* Classification by type of interest rate
+	* Fixed interest rate: issued and redeemed at par value or fixed permium over par value. Treasury bills, commercial paper, bills, certificates of deposits, debt-discounted bonds, zero-coupon bonds, Separate Trading of Registered Interest and Principal Securities (STRIPS), perpetual, callable, and puttable debt securities with sinking fund provision, exchangeable bonds
+	* Flexible interest rate:
+	* Mixed interest rate
+
+
 
 
 ### F.4 - Loans
